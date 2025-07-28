@@ -88,3 +88,4 @@ The universal license provides access to all three applications with cross-platf
 
 ### 🔍 Keywords
 
+Affinity Publisher 2 Mac Download, Affinity Publisher Mac Download, Affinity Publisher Mac Download, Affinity Publisher Download Mac, Download Mac Affinity Publisher, Mac Download Affinity Publisher, Download Affinity Publisher Mac, Affinity Publisher 2 Mac Download, Affinity Publisher 2 Download Mac, Download Mac Affinity Publisher 2, Mac Download Affinity Publisher 2, Download Affinity Publisher 2 Mac, Affinity Publisher for Mac free download, Affinity Publisher for Mac download, Affinity Publisher for Mac, Affinity Publisher Mac full version
