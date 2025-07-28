@@ -1,4 +1,4 @@
-# 🎨 Affinity V2 Universal Mac Download - Professional Creative Suite
+# Affinity V2 Universal Mac Download - Professional Creative Suite
 
 ![Affinity V2 Banner](https://cdn.serif.com/store/img/og/og-download-110820220903.png)  
 *Powerful design tools for Mac users*
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔍 What is Affinity V2 Creative Suite?
+## What is Affinity V2 Creative Suite?
 
 Affinity V2 represents the next generation of professional creative software for Mac users. This complete suite includes three powerful applications that work seamlessly together:
 
